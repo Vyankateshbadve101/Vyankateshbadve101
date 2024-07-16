@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vyankateshbadve99@gmail.com**
 
-- 🌱 I’m currently learning **Figma,React-Native,Adobe**
+- 🌱 I’m currently learning **Figma,React-Native,Adobe,Rust**
 
 - 💬 Ask me about **React,Javascript,UI-UX**
 

@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working on [Coffee withme Project](https://coffee-withme.netlify.app/)
 
-- 🌱 I’m currently learning **Figma,React-Native,Adobo**
-
 - 👨‍💻 All of my projects are available at [https://vyankatesh-portfolio.netlify.app/](https://vyankatesh-portfolio.netlify.app/)
+ 
+- 📄 Know about my experiences [https://vyankatesh-portfolio.netlify.app/](https://vyankatesh-portfolio.netlify.app/)
+
+- 🌱 I’m currently learning **Figma,React-Native,Adobe**
 
 - 💬 Ask me about **React,Javascript,UI-UX**
 
 - 📫 How to reach me **vyankateshbadve99@gmail.com**
-
-- 📄 Know about my experiences [https://vyankatesh-portfolio.netlify.app/](https://vyankatesh-portfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
